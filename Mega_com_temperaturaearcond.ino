@@ -39,7 +39,7 @@ uint32_t delayMS;
 
 // token, ssid, e pass para Blynk
 
-char auth[] = "80288dae4bf64211bf9f5c7f7a1c9f18";
+char auth[] = "8dae4bf64211bf9f5c7f7a1c9f188028";
 char ssid[] = "Mateus";
 char pass[] = "comaverduras";
 
